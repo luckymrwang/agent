@@ -7,9 +7,9 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/urlooker/agent/backend"
-	"github.com/urlooker/agent/cron"
-	"github.com/urlooker/agent/g"
+	"urlooker/agent/backend"
+	"urlooker/agent/cron"
+	"urlooker/agent/g"
 )
 
 func prepare() {

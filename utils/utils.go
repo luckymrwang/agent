@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"github.com/astaxie/beego/httplib"
-	webg "github.com/urlooker/web/g"
 
-	"github.com/urlooker/agent/g"
+	"urlooker/agent/g"
+	webg "urlooker/web/g"
 )
 
 const (

@@ -4,12 +4,12 @@ import (
 	"log"
 	"time"
 
-	"github.com/urlooker/web/api"
-	webg "github.com/urlooker/web/g"
+	"urlooker/web/api"
+	webg "urlooker/web/g"
 
-	"github.com/urlooker/agent/backend"
-	"github.com/urlooker/agent/g"
-	"github.com/urlooker/agent/utils"
+	"urlooker/agent/backend"
+	"urlooker/agent/g"
+	"urlooker/agent/utils"
 )
 
 func StartCheck() {
